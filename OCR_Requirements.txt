@@ -1,4 +1,0 @@
-streamlit==1.38.0
-pillow==10.4.0
-pytesseract==0.3.13
-pandas==2.2.2

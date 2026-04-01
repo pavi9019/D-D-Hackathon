@@ -154,4 +154,4 @@ class OCRToken:
 
 
 @dataclass
-class OCRResult;
+class OCRResult
